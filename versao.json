@@ -1,8 +1,8 @@
 {
-  "versao": "1.7.0",
+  "versao": "1.8.0",
   "arquivos": {
-    "win": "https://github.com/victorrib01/oficina-versao/releases/download/v1.7.0/InstalarOficina-1.7.0.exe",
-    "win7": "https://github.com/victorrib01/oficina-versao/releases/download/v1.7.0/oficina-win7-1.7.0.js"
+    "win": "https://github.com/victorrib01/oficina-versao/releases/download/v1.8.0/InstalarOficina-1.8.0.exe",
+    "win7": "https://github.com/victorrib01/oficina-versao/releases/download/v1.8.0/oficina-win7-1.8.0.js"
   },
-  "prazo": "2026-08-04"
+  "prazo": "2026-07-23"
 }
